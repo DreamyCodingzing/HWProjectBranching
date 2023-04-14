@@ -8,4 +8,5 @@ public class Test {
 	public void group() {
 		System.out.println("group deez");
 	}
+	int age = 25;
 }
