@@ -7,5 +7,8 @@ public class Branching {
 	public void divide() {
 		System.out.println(3/3);
 	}
+	
+
+	String str ="Branching test";
 
 }
